@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Igor Crissaff 👋
 
-I am a Full Stack Developer and Infrastructure Enthusiast focused on building scalable web applications and robust network architectures. I bridge the gap between clean code and efficient deployment.
+I am a Backend Developer and Infrastructure Enthusiast focused on building scalable web applications and robust network architectures. I bridge the gap between clean code and efficient deployment.
 
-
-
-## Tech Stack
+## Tech Stack 🛠️
 
 1. Python
 2. Flask
@@ -29,3 +27,9 @@ I am a Full Stack Developer and Infrastructure Enthusiast focused on building sc
 6. Postman
 7. API's
 
+## What I'm Working On 🚀
+Web Development: Developing a **Comercial Management Software** in **Python** using **Django** and **MySQL**.
+
+Infrastructure: Learning more about **Networks**, **Server Management** and **Deployment Tools**
+
+Security: Learning and Implementing best practices for improved security in both **Networks** and **Applications**.
