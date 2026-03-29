@@ -24,7 +24,7 @@ I am a Backend Developer and Infrastructure Enthusiast focused on building scala
 
 ## Tech Stack 🛠️
 
-###💻 Web Development
+### 💻 Web Development
 1. Python
 2. Flask
 3. Django
@@ -35,12 +35,12 @@ I am a Backend Developer and Infrastructure Enthusiast focused on building scala
 8. Bootstrap
 9. RESTful APIs
 
-###⚙️ Infrastructure
+### ⚙️ Infrastructure
 1. Linux (Ubuntu, Debian, Fedora)
 2. Docker & containerization
 3. Apache
 
-###🌐 Networking
+### 🌐 Networking
 1. TCP/IP, DNS, DHCP
 2. Router and firewall configuration
 3. VPN and network security
