@@ -22,7 +22,7 @@ I am a Backend Developer and Infrastructure Enthusiast focused on building scala
 - 🧠 Experience with Linux servers, networking, and application deployment
 - 🎯 Focused on performance, scalability, and security
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack 
 
 ### 💻 Web Development
 1. Python
