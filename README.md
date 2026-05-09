@@ -46,9 +46,12 @@ I am a Backend Developer and Infrastructure Enthusiast focused on building scala
 3. VPN and network security
 
 
-## What I'm Working On 🚀
+## 🚀 What I'm Working On 
 Web Development: Developing a **Comercial Management Software** in **Python** using **Django** and **MySQL**.
 
 Infrastructure: Learning more about **Networks**, **Server Management** and **Deployment Tools**
 
 Security: Learning and Implementing best practices for improved security in both **Networks** and **Applications**.
+
+## 📫 How to reach me
+- My Page: [https://igorcrissaff.github.io/igorcrissaff/](https://igorcrissaff.github.io/igorcrissaff/)
