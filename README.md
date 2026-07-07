@@ -13,45 +13,60 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Igor Crissaff 👋
-I am a Backend Developer and Infrastructure Enthusiast focused on building scalable web applications and robust network architectures. I bridge the gap between clean code and efficient deployment.
+# Olá, eu sou Igor Crissaff 👋
 
-## 🚀 About Me
-- 🔭 Currently working with web development and infrastructure automation
-- 🌱 Continuously learning Infrastructure and Web Development
-- 🧠 Experience with Linux servers, networking, and application deployment
-- 🎯 Focused on performance, scalability, and security
+Sou **Desenvolvedor Backend** e entusiasta de **Infraestrutura**, focado no desenvolvimento de aplicações web escaláveis e arquiteturas de rede robustas. Busco unir código limpo com implantações eficientes.
 
-## 🛠️ Tech Stack 
+## 🚀 Sobre Mim
 
-### 💻 Web Development
-1. Python
-2. Flask
-3. Django
-4. Docker
-5. MySQL
-6. Postman
-7. API's
-8. Bootstrap
-9. RESTful APIs
+- 🔭 Atualmente trabalhando com desenvolvimento web e automação de infraestrutura
+- 🌱 Aprendendo continuamente sobre Infraestrutura e Desenvolvimento Web
+- 🧠 Experiência com servidores Linux, redes e implantação de aplicações
+- 🎯 Focado em desempenho, escalabilidade e segurança
 
-### ⚙️ Infrastructure
-1. Linux (Ubuntu, Debian, Fedora)
-2. Docker & containerization
-3. Apache
+## 🛠️ Tecnologias
 
-### 🌐 Networking
-1. TCP/IP, DNS, DHCP
-2. Router and firewall configuration
-3. VPN and network security
+### 💻 Desenvolvimento Web
 
+- Python
+- Flask
+- Django
+- Docker
+- MySQL
+- Postman
+- APIs
+- Bootstrap
+- APIs RESTful
 
-## 🚀 What I'm Working On 
-Web Development: Developing a **Comercial Management Software** in **Python** using **Django** and **MySQL**.
+### ⚙️ Infraestrutura
 
-Infrastructure: Learning more about **Networks**, **Server Management** and **Deployment Tools**
+- Linux (Ubuntu, Debian e Fedora)
+- Docker e conteinerização
+- Apache
 
-Security: Learning and Implementing best practices for improved security in both **Networks** and **Applications**.
+### 🌐 Redes
 
-## 📫 How to reach me
-- My Page: [https://igorcrissaff.github.io/Portfolio/](https://igorcrissaff.github.io/Portfolio/)
+- TCP/IP, DNS e DHCP
+- Configuração de roteadores e firewalls
+- VPN e segurança de redes
+
+## 🚀 No Que Estou Trabalhando
+
+### 💻 Desenvolvimento Web
+
+Desenvolvimento de um sistema de gestão comercial em Python utilizando Django e MySQL.
+
+### ⚙️ Infraestrutura
+
+Aprofundando conhecimentos em redes, administração de servidores e ferramentas de implantação.
+
+### 🔐 Segurança
+
+Estudando e implementando boas práticas para aumentar a segurança de redes e aplicações.
+
+## 📫 Como Entrar em Contato
+
+[https://igorcrissaff.github.io/Portfolio/](https://igorcrissaff.github.io/Portfolio/)
+
+**Meu Portfólio:**  
+https://igorcrissaff.github.io/Portfolio/
