@@ -67,4 +67,4 @@ Estudando e implementando boas práticas para aumentar a segurança de redes e a
 ## 📫 Como Entrar em Contato
 
 **Meu Portfólio:**  
-[https://igorcrissaff.github.io/Portfolio/](https://igorcrissaff.github.io/Portfolio/)
+[https://igorcrissaff.github.io/](https://igorcrissaff.github.io/)
